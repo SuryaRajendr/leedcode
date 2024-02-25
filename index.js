@@ -5,3 +5,4 @@ const longestSequence = require("./arrays&hashing/longestConsecutiveSequence.js"
 const validPalindrome = require("./twoPointers/validPalindrome.js");
 
 const twoSum = require("./twoPointers/twoSum.js")
+const threesum = require("./twoPointers/3sum.js")
