@@ -6,3 +6,4 @@ const validPalindrome = require("./twoPointers/validPalindrome.js");
 
 const twoSum = require("./twoPointers/twoSum.js")
 const threesum = require("./twoPointers/3sum.js")
+const containerWithMostWater = require("./twoPointers/containerWithMostWater.js")
