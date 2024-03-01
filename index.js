@@ -11,3 +11,4 @@ const containerWithMostWater = require("./twoPointers/containerWithMostWater.js"
 const maxProfit = require("./slindingWindow/stockBuy&Sell.js")
 const lengthOfLongestSubstring = require("./slindingWindow/lengthOfLongestSubstring.js")
 const characterReplacement = require("./slindingWindow/LongestRepeatingCharacterReplacement.js")
+const permutationinString = require("./slindingWindow/permutationinString.js")
