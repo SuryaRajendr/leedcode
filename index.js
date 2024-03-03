@@ -13,3 +13,6 @@ const lengthOfLongestSubstring = require("./slindingWindow/lengthOfLongestSubstr
 const characterReplacement = require("./slindingWindow/LongestRepeatingCharacterReplacement.js")
 const permutationinString = require("./slindingWindow/permutationinString.js")
 const minWindowsubstring = require("./slindingWindow/minWindowsubstring.js")
+
+
+const arrayStringsAreEqual = require("./leedcode/array/twoArrayEquivalent.js")
