@@ -17,3 +17,4 @@ const minWindowsubstring = require("./slindingWindow/minWindowsubstring.js")
 
 
 const arrayStringsAreEqual = require("./leedcode/array/twoArrayEquivalent.js")
+const firstPalindrome = require("./leedcode/strings/firstpalindromic.js")
