@@ -23,3 +23,4 @@ const maximumNumberOfStringPairs = require("./leedcode/strings/maximumNumberOfSt
 const removeTrailingZeros = require("./leedcode/strings/2710removeTrailingZeros.js")
 const splitWordsBySeparator = require("./leedcode/strings/splitWordsBySeparator.js")
 const faultyKeyboard = require("./leedcode/strings/faultyKeyboard.js")
+const findIndexFirst = require("./leedcode/strings/findIndexFirst-28.js")
