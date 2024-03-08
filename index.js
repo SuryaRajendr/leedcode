@@ -25,3 +25,4 @@ const splitWordsBySeparator = require("./leedcode/strings/splitWordsBySeparator.
 const faultyKeyboard = require("./leedcode/strings/faultyKeyboard.js")
 const findIndexFirst = require("./leedcode/strings/findIndexFirst-28.js")
 const legthOfLastWord = require("./leedcode/strings/58-legthOfLastWord.js")
+const addString = require("./leedcode/strings/415-addString.js")
