@@ -24,3 +24,4 @@ const removeTrailingZeros = require("./leedcode/strings/2710removeTrailingZeros.
 const splitWordsBySeparator = require("./leedcode/strings/splitWordsBySeparator.js")
 const faultyKeyboard = require("./leedcode/strings/faultyKeyboard.js")
 const findIndexFirst = require("./leedcode/strings/findIndexFirst-28.js")
+const legthOfLastWord = require("./leedcode/strings/58-legthOfLastWord.js")
