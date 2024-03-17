@@ -34,3 +34,4 @@ const minimizedStringLength = require("./leedcode/strings/minimizedStringLength.
 const rotateString = require("./leedcode/strings/rotateString.js")
 const decode = require("./leedcode/strings/decodeXoredArray.js")
 const productArrayExceptself = require("./leedcode/strings/productArrayExceptself.js")
+const isCircularSentence = require("./leedcode/strings/isCircularSentence.js")
