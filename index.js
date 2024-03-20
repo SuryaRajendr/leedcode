@@ -37,3 +37,4 @@ const productArrayExceptself = require("./leedcode/strings/productArrayExceptsel
 const isCircularSentence = require("./leedcode/strings/isCircularSentence.js")
 const pivotIndex = require("./leedcode/array/pivotIndex.js")
 const smallerNumbersThanCurrent = require("./leedcode/array/smallerNumbersThanCurrent.js")
+const manipulation = require("./bitManipulation/manipulation.js")
