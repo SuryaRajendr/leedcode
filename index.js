@@ -41,3 +41,4 @@ const smallerNumbersThanCurrent = require("./leedcode/array/smallerNumbersThanCu
 const manipulation = require("./bitManipulation/manipulation.js")
 
 const isHappy = require("./Math&Geometry/isHappy.js")
+const search = require("./binarysearch/search.js")
