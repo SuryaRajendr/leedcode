@@ -44,3 +44,5 @@ const isHappy = require("./Math&Geometry/isHappy.js")
 
 const search = require("./binarysearch/search.js")
 const searchInsert = require("./binarysearch/searchInsert.js")
+
+const trappingRainWater = require("./hard/trappingRainWater.js")
