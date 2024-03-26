@@ -48,3 +48,4 @@ const searchInsert = require("./binarysearch/searchInsert.js")
 const trappingRainWater = require("./hard/trappingRainWater.js")
 
 const findDuplicates = require("./array/findDuplicates.js")
+const firstMissingPositive = require("./array/firstMissingPositive.js")
