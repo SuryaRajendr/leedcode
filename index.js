@@ -52,3 +52,5 @@ const numSubarrayProductLessThanK = require("./streaks/numSubarrayProductLessTha
 const firstMissingPositive = require("./array/firstMissingPositive.js")
 
 const deleteDuplicates = require("./linkedlist/deleteDuplicates.js")
+
+const selectionSort = require("./sorting/selectionSort.js")
