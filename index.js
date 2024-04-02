@@ -55,3 +55,4 @@ const deleteDuplicates = require("./linkedlist/deleteDuplicates.js")
 
 const selectionSort = require("./sorting/selectionSort.js")
 const mergeSort = require("./sorting/mergeSort.js")
+const quickSort = require("./sorting/quickSort.js")
