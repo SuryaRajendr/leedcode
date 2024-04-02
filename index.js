@@ -57,3 +57,5 @@ const selectionSort = require("./sorting/selectionSort.js")
 const mergeSort = require("./sorting/mergeSort.js")
 const quickSort = require("./sorting/quickSort.js")
 const bubbleSort = require("./sorting/bubbleSort.js")
+
+console.log("Ayyapa")
