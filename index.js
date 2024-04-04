@@ -48,10 +48,16 @@ const searchInsert = require("./binarysearch/searchInsert.js")
 const trappingRainWater = require("./hard/trappingRainWater.js")
 
 const findDuplicates = require("./array/findDuplicates.js")
-const numSubarrayProductLessThanK = require("./streaks/numSubarrayProductLessThanK.js")
+
+
 const firstMissingPositive = require("./array/firstMissingPositive.js")
 
 const deleteDuplicates = require("./linkedlist/deleteDuplicates.js")
+
+
+const numSubarrayProductLessThanK = require("./streaks/numSubarrayProductLessThanK.js")
+const maxDepth = require("./streaks/maxDepth.js")
+
 
 const selectionSort = require("./sorting/selectionSort.js")
 const mergeSort = require("./sorting/mergeSort.js")
